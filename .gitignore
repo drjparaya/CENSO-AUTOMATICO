@@ -1,0 +1,12 @@
+.env
+config.py
+service_account.json
+credentials.json
+censo-automatico-430916-f23cd66e6932.json
+__pycache__/
+*.py[cod]
+.DS_Store
+venv/
+*.log
+*.progress.json
+*.failed_ranges.json
